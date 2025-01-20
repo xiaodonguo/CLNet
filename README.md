@@ -1,7 +1,8 @@
 # CLNet
 • Code for the paper:"Contrastive learning-based knowledge distillation for RGB-thermal urban scene semantic segmentation", KBS, 2024
 # Paper
-• More details refer to the paper ["Contrastive learning-based knowledge distillation for RGB-thermal urban scene semantic segmentation"](https://www.sciencedirect.com/science/article/pii/S0950705124002235?via%3Dihub), which has been published in the Knowledge-Based Systems.
+• More details refer to the paper ["Contrastive learning-based knowledge distillation for RGB-thermal urban scene semantic segmentation"](https://www.sciencedirect.com/science/article/pii/S0950705124002235?via%3Dihub), which has been published in the Knowledge-Based Systems.  
+<img width="778" alt="pic1" src="https://github.com/user-attachments/assets/e998b92b-da29-4b45-a2ed-539cfe0ab3db" />  
 # Results
 Experiments results on the MFNet dataset
 | Model | mIoU | weights |
