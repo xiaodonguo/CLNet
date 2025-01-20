@@ -11,19 +11,12 @@ Experiments results on the MFNet dataset
 | CLNet-S* | 57.3% | [weight](https://github.com/xiaodonguo/CLNet/releases/download/v1/KD.pth) |
 # Citation
 {Xiaodong Guo, Wujie Zhou, Tong Liu,  
-
 Contrastive learning-based knowledge distillation for RGB-thermal urban scene semantic segmentation,  
-
 Knowledge-Based Systems,  
-
 Volume 292,  
-
 2024,  
-
 111588,  
-
 ISSN 0950-7051,  
-
 https://doi.org/10.1016/j.knosys.2024.111588.}
 # Contact
 If you have any questions, please feel free to contact 3120245534@bit.edu.cn.
